@@ -6,6 +6,6 @@ I now want a dog of my own as he is my favorite study buddy!
 
 Explore the different pages to learn more:
 
-*[Breeds I Love](breeds.md)
+* [Breeds I Love](breeds.md)
 
-*[Potential Dog Names](names.md)
+* [Potential Dog Names](names.md)
